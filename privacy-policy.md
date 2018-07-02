@@ -1,6 +1,8 @@
 # Cloudflare Privacy Policy
 
-Effective May 25, 2018
+Effective July 02, 2018
+
+_We have updated our May 25, 2018 privacy policy to add a new section 14, naming TRUSTe as our data protection dispute resolution provider._
 
 _This Cloudflare Privacy Policy (“**Policy**”) outlines the information that Cloudflare, Inc. (“**Cloudflare**”, “**we**”, “**us**” or “**our**”) gathers, how we use that information, and the options you have to access, correct, or delete such information._
 
@@ -150,7 +152,11 @@ We may assign or transfer this Policy, as well as information covered by this Po
 
 Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
 
-## 14\. CONTACT INFORMATION
+## 14\. DISPUTE RESOLUTION
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.
+
+## 15\. CONTACT INFORMATION
 
 **Cloudflare, Inc.**
 101 Townsend St.
