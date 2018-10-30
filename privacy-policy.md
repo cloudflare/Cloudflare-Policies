@@ -164,7 +164,7 @@ We keep your personal information personal and private. We will not sell, rent, 
     101 Townsend St.  
     San Francisco, CA 94107  
     Attention: Data Protection Officer  
-    [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+    privacyquestions@cloudflare.com
 
     **Cloudflare, Ltd.**  
     2nd Floor  
@@ -172,16 +172,16 @@ We keep your personal information personal and private. We will not sell, rent, 
     London  
     SE1 0NZ  
     Attention: Data Protection Officer  
-    [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+    privacyquestions@cloudflare.com
 
     **Cloudflare Germany GmbH**  
     Rosental 7  
     80331 München  
     Attention: Data Protection Officer  
-    [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+    privacyquestions@cloudflare.com
 
     **Cloudflare, Pte., Ltd.**  
     120 Robinson Road #15-00  
     Singapore 068913  
     Attention: Data Protection Officer  
-    [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+    privacyquestions@cloudflare.com
