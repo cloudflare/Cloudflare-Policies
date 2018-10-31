@@ -140,23 +140,23 @@ We keep your personal information personal and private. We will not sell, rent, 
 
 10.  REGISTRAR.
 
-If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol. We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties. Registrant data may include the domain name, registrant name and other contact information, and domain name server information. [Learn more](https://www.icann.org/resources/pages/model-privacy-policy-2012-02-25-en).
+     If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol. We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties. Registrant data may include the domain name, registrant name and other contact information, and domain name server information. [Learn more](https://www.icann.org/resources/pages/model-privacy-policy-2012-02-25-en).
 
 11.  NOTIFICATION OF CHANGES.
 
-If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes.
+     If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes.
 
 12.  BUSINESS TRANSACTIONS.
 
-We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business.
+     We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business.
 
 13.  ENGLISH LANGUAGE CONTROLS.
 
-Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+     Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
 
 14.  DISPUTE RESOLUTION.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+     If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
 15.  CONTACT INFORMATION.
 
