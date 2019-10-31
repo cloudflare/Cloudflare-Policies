@@ -1,9 +1,9 @@
 Cloudflare Privacy Policy
 =========================
 
-****This Privacy Policy is effective as of October 31, 2019. You can view the current Privacy Policy [here](https://www.cloudflare.com/privacypolicy/ "Cloudflare Privacy Policy").****
+****This Privacy Policy is effective as of October 31, 2019.****
 
-_We have updated our March 14, 2019 privacy policy to address new products and services, to list our Portuguese entity as our legal representative entity in the EU, to address the new California Consumer Privacy Act (CCPA), and to add to this Policy the statements we previously listed separately in our [Privacy Shield Framework Statement](https://www.cloudflare.com/privacyshield/ "Privacy Shield Statement"). In addition, in light of the United Kingdom leaving the European Union (Brexit), we have made changes to clarify our commitment to protect the personal data we receive from the United Kingdom after Brexit._
+_We have updated our October 31, 2019 privacy policy to address new products and services, to list our Portuguese entity as our legal representative entity in the EU, to address the new California Consumer Privacy Act (CCPA), and to add to this Policy the statements we previously listed separately in our [Privacy Shield Framework Statement](https://www.cloudflare.com/privacyshield/ "Privacy Shield Statement"). In addition, in light of the United Kingdom leaving the European Union (Brexit), we have made changes to clarify our commitment to protect the personal data we receive from the United Kingdom after Brexit._
 
 * * *
 
